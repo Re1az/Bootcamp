@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+}
+.center{
+    align-items: center;
+}
+.justify-btwn{
+    justify-content: space-between;
+
+}
+.btn{
+    padding: 4px 20px;
+    font-size: 0.8rem;
+    width: 150px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    background-color:	#fe7e01;
+    border:1px solid black;
+   
+}
+.flex{
+    display: flex=1;
+}
