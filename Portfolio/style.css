@@ -55,6 +55,7 @@ span{
     margin-top: 30px;
     background-color:transparent;
     border:1.5px solid black;
+    color: #000;
 }
 .btn-sec:hover{
    background-color: #f69f47;
@@ -86,6 +87,49 @@ section .container img{
 .content p{
     font-size: large;
     color:gray;
+}
+.blog .find{
+    background-color:#eae8de ;
+    max-width: 100%;
+    font-weight: 5rem;
+    margin: 24px 0;
+    padding: 20px 50px;
+    font-size: large;
+    color:rgb(61, 60, 60);
+    
+
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  .email a{
+    text-decoration:none;
+    color: #fb9128;
+    justify-items:center ;
+
+  }
+  i {
+    font-size: 24px;
+    margin: 0 10px;
+}
+.me{
+    padding-bottom: 50px;
 }
 
 
